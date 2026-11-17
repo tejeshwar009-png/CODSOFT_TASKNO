@@ -57,11 +57,11 @@ The to-do list allows users to add tasks, view pending or completed tasks, mark 
 
 ## Internship Submission
 
-- **Intern Name:** Y
+- **Intern Name:** Tejeshwar J
 
 - **Domain:** C++ Programming
 
-- **Batch:** YOUR BATCH
+- **Batch:** OCTOBER BATCH C32
 
 - **Organization:** CodSoft
 
